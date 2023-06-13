@@ -1,1 +1,2 @@
 pack tasks git \https://github.com/spleekz/bun_tasks
+pack array git \https://github.com/spleekz/bun_array
