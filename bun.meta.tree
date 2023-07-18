@@ -1,4 +1,5 @@
 pack tasks git \https://github.com/spleekz/bun_tasks
 pack array git \https://github.com/spleekz/bun_array
 pack type git \https://github.com/spleekz/bun_type
+pack scroll git \https://github.com/spleekz/bun_scroll
 pack alh git \https://github.com/spleekz/bun_alh
